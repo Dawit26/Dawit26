@@ -9,10 +9,9 @@ Welcome to my GitHub! I’m a passionate developer dedicated to building impactf
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript 
 - **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, REST APIs
 - **Tools & Platforms:** Git, GitHub, Docker, VS Code, Postman, Firebase
-- **Others:** Chart.js, Redux, JWT Authentication, Responsive Design
 
 ---
 
@@ -22,23 +21,11 @@ Welcome to my GitHub! I’m a passionate developer dedicated to building impactf
 A full-stack app for clinics to manage patient data securely.
 - Tech: MERN Stack (MongoDB, Express, React, Node.js)
 - Features: Login/Auth, CRUD patient records, appointment tracking
-- GitHub Repo: [Coming soon]
-
 ---
 
 ### 📊 MarketPulse – *Marketing Analytics Dashboard*
 A visual dashboard that helps marketers analyze traffic and campaign data.
-- Tech: Next.js, Firebase, Tailwind, Chart.js
 - Features: Real-time graphs, user login, campaign tracking
-- GitHub Repo: [Coming soon]
-
----
-
-### 🛒 SwiftCart – *E-commerce Platform*
-A scalable online store with payment integration and user authentication.
-- Tech: React, Redux, MongoDB, Stripe, Node.js
-- Features: Product browsing, shopping cart, checkout, user profiles
-- GitHub Repo: [Coming soon]
 
 ---
 
@@ -61,8 +48,8 @@ I'm working toward becoming a leader in tech-driven solutions for healthcare and
 
 - ✉️ Email: soldawit143@gmail.com  
 - 🌍 GitHub: [github.com/Dawit26](https://github.com/Dawit26)  
-- 📞 Ethiopian Phone: [Insert your number]  
-- 🌐 LinkedIn: [Add your profile if available]
+- 📞 Ethiopian Phone: [+251912742826]  
+- 🌐 LinkedIn: https://www.linkedin.com/in/dawit2826
 
 ---
 
