@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Dawit Solomon
 
-**Full Stack Developer | Health Informatics Enthusiast | Digital Marketer**
+**Full Stack Developer | Health Informatics  | Digital Marketer**
 
 Welcome to my GitHub! I’m a passionate developer dedicated to building impactful web applications, with a special interest in leveraging technology for healthcare and digital solutions. My goal is to use software to improve lives—especially in underserved communities.
 
